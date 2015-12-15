@@ -1,1 +1,3 @@
-X = 3000;
+$(document).ready(function() {
+S = 2090;
+});
